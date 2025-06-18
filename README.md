@@ -1,2 +1,3 @@
 # social_policy_LA_XXI
-Data sets and scripts from my research on social policy in Latin America in the 21st century
+Data sets and scripts from my book _Political Economy of Welfare in Latin America: Universalism Deferred_. Forthcoming with Edward Elgar
+
